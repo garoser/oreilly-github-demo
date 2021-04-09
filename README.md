@@ -17,6 +17,10 @@ Various files to support upcoming GitHub tasks the series trains you for, but mo
 
 There is nothing missing - it's perfect.
 
+## Useful links
+
+Try Chis Beam duscussion about commit comments at **[Learning Git-commit comments](https://chris.beams.io/posts/git-commit/)** 
+
 ## License
 
 This repository is © 2015 Christophe Porteneuve, provided under the [MIT license](LICENSE), and part of a video training series produced for and distributed by O’Reilly.
